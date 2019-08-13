@@ -1,5 +1,5 @@
 <?php
 public function exemplo(){
-  echo "ola";
+  echo "modificado";
   }
 ?>
